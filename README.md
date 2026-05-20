@@ -9,5 +9,5 @@
 
 Stack: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . PHP, TS/JS, .NET
 IDEs: . . . . . . . . . . . . . . . . . . . . . . . . . . . Neovim, Visual Studio
-Fields: . . . . . . . . . . . . . . . . . . . . . . . . . . . .  Web dev, Game dev
+Fields: . . . . . . . . . . . . . . . . . . . . . . . . . . . . Web dev, Game dev
 ```
